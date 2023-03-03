@@ -1,5 +1,5 @@
-# learning-home-automation
-Learning Home Automation
+learning-home-automation
+# Learning Home Automation
 
 Part of "Learning" at https://github.com/vanHeemstraSystems/learning
 
