@@ -1,5 +1,5 @@
 ---
-title: "Learning Caricature Drawing"
+title: "Learning Line Drawing"
 ---
 
 This is a Quarto website.
