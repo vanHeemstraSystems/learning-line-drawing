@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Home Automation](README.md)
+* [Learning Caricature Drawing](README.md)
