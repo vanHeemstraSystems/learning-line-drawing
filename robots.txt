@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-home-automation/sitemap.xml
+Sitemap: https://github.com/vanHeemstraSystems/learning-caricature-drawing/sitemap.xml
