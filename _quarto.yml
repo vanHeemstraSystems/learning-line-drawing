@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning Caricature Drawing"
+  title: "Learning Line Drawing"
   page-navigation: true
   navbar:
     left:
